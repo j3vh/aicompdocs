@@ -1,7 +1,6 @@
 ---
 title: Inleiding
 layout: default
-nav_order: 2
 parent: Implementatiekader AI
 grand_parent: Volledige tekst
 ---
