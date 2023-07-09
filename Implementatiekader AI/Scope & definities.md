@@ -1,8 +1,8 @@
 ---
 title: Scope & Definities
 layout: default
-parent: Implementatiekader AI
-grand_parent: Volledige tekst
+parent: Volledige tekst
+grand_parent: Implementatiekader AI
 
 ---
 
