@@ -3,6 +3,8 @@ title: Verplichtingen & Richtlijnen
 layout: default
 nav_order: 4
 parent: Implementatiekader AI
+grand_parent: Volledige tekst
+
 ---
 
 # Algoritmen en AI

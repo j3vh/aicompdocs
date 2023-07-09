@@ -3,6 +3,8 @@ title: Scope & Definities
 layout: default
 nav_order: 3
 parent: Implementatiekader AI
+grand_parent: Volledige tekst
+
 ---
 
 # Algoritmen en AI
