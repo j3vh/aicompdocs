@@ -3,6 +3,11 @@ description: Alle informatie over verantwoord AI gebruik in de publieke sector
 theme: just-the-docs
 
 url: https://j3vh.github.io/aicompdocs
+favicon_ico: "/assets/images/favicon.ico"
+
+plugins:
+  - jemoji
+
 
 #aux_links:
 #  Template Repository: https://github.com/just-the-docs/just-the-docs-template
