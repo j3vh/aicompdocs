@@ -11,3 +11,8 @@ plugins:
 
 #aux_links:
 #  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "10.2.4"
