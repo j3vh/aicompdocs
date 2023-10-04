@@ -3,7 +3,6 @@ title: AI Act
 layout: page
 nav_order: 3
 has_children: true
-parent: Home
 has_toc: false
 ---
 # AI Act 
