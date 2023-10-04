@@ -1,9 +1,10 @@
 ---
-title: Implementatiekader AI
+title: Implementatiekader
 layout: page
+parent: Home
 nav_order: 1
 has_children: true
-parent: Home
+
 ---
 # Implementatiekader in het kort
 <details open markdown="block">
