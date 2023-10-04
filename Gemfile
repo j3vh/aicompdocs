@@ -9,3 +9,6 @@ gem "just-the-docs", "0.5.3" # pinned to the current release
 
 gem 'jemoji'
 
+group :jekyll_plugins do
+    gem 'jekyll-spaceship'
+  end
