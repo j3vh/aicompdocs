@@ -4,7 +4,6 @@ layout: page
 parent: Home
 nav_order: 1
 has_children: true
-has_toc: true
 
 ---
 # Implementatiekader in het kort
