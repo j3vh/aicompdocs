@@ -55,8 +55,8 @@ parent: Home
 
 <details open markdown="block">
 <summary>Verplichtingen & richtlijnen</summary>{: .fs-6 .text-purple-200	}
-- Inzet van algoritmen moet **wettig**, **ethisch**, en **robuust** zijn
-- Het implementatiekader werkt deze componenten uit in zeven thema's.
+  - Inzet van algoritmen moet **wettig**, **ethisch**, en **robuust** zijn
+  - Het implementatiekader werkt deze componenten uit in zeven thema's.
 
 <details closed markdown="block" style="padding-left: 20px"><summary>Menselijke controle en menselijk toezicht</summary>{: .fs-5 .text-purple-100	}
 
