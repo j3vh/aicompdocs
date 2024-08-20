@@ -1,14 +1,4 @@
 ---
-layout: page
-title: "AI Act"
----
-
----
-layout: page
-title: "AI Act"
----
-
----
 title: AI Act
 layout: page
 nav_order: 3
