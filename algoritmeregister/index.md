@@ -11,44 +11,18 @@ Deze pagina toont wijzigingen in het [Algoritmeregister van de Nederlandse overh
 
 Het Algoritmeregister wordt periodiek gecontroleerd op nieuwe, gewijzigde en verwijderde algoritme-registraties.
 
-## Over deze tracker
+## Samenvatting
 
-De tracker controleert dagelijks het [Algoritmeregister](https://algoritmes.overheid.nl/nl) op wijzigingen. Dit omvat:
-
-- **Nieuwe registraties** - algoritmes die voor het eerst in het register verschijnen
-- **Gewijzigde registraties** - bestaande algoritmes waarvan de gegevens zijn aangepast
-- **Verwijderde registraties** - algoritmes die uit het register zijn verwijderd
-
-### Hoe werkt het?
-
-1. Dagelijks wordt een snapshot van alle algoritme-registraties opgehaald via de [openbare API](https://algoritmes.overheid.nl/api/downloads/site-data/json)
-2. De huidige snapshot wordt vergeleken met de vorige
-3. Verschillen worden vastgelegd en hier gepubliceerd
-
-### Gevolgde velden
-
-De volgende velden worden gemonitord op wijzigingen:
-
-| Veld | Beschrijving |
+| Statistiek | Aantal |
 |---|---|
-| name | Naam van het algoritme |
-| description_short | Korte beschrijving |
-| organization | Verantwoordelijke organisatie |
-| status | Status (In ontwikkeling / In gebruik / Buiten gebruik) |
-| publication_category | Categorie (A, B, of C) |
-| purpose_and_impact | Doel en impact |
-| considerations | Afwegingen |
-| human_intervention | Menselijke tussenkomst |
-| risk_management | Risicobeheer |
-| legal_basis | Wettelijke grondslag |
-| data | Gebruikte data |
-| technical_operation | Technische werking |
-| supplier | Leverancier |
-| contact | Contactgegevens |
-| theme | Beleidsterrein |
-| start_date | Startdatum |
-| end_date | Einddatum |
+| Snapshots | 1 |
+| Nieuwe registraties | 0 |
+| Gewijzigde registraties | 0 |
+| Verwijderde registraties | 0 |
+| Totaal wijzigingen | 0 |
 
-### Broncode
+## Recente snapshots
 
-De broncode van de tracker is beschikbaar in de [`tracker/`](https://github.com/j3vh/aicompdocs/tree/main/tracker) map van deze repository.
+| Datum | Aantal algoritmes | Wijzigingen |
+|---|---|---|
+| [12-02-2026 16:29 UTC](wijzigingen/2026-02-12/) | 1353 | Geen wijzigingen |
